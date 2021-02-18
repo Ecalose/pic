@@ -1,6 +1,7 @@
 name: 回帖
 
 on:
+  workflow_dispatch:
   push:
    branches: main
    paths: 
