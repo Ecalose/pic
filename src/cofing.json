@@ -1,6 +1,6 @@
 {
 	"Ranklist_Maxpage": ["ALL"],
 	"User-Agent": ["Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36"],
-	"Cookie": "[Your cookie]",
-	"Download-Path": "E:/pic/"
+	"Cookie": "[__cfduid=dc007047d11e5ff1c9dcfb10e967cad3c1613634832; first_visit_datetime_pc=2021-02-18+16%3A53%3A53; p_ab_id=3; p_ab_id_2=1; p_ab_d_id=200237862; yuid_b=EAIiIQI; __cf_bm=293a2f878ff498038956f2b0ea47cb9f82942eb9-1613634833-1800-AcupsVT78yPXFg5Q3L7LhOxKsIRuEjZla60aKg658jeIPlAjv7a/45yfY06PDqffexWA+3h8kSSIbhVaSEkSYJ+CVq9mfS0nMY4Xt73k423D; device_token=b19158e6e95d8104dde0263d6f615f01; c_type=25; privacy_policy_agreement=2; a_type=0; b_type=0; tag_view_ranking=Pt9XriSgeT~5jQydRTLzH~wUw07XxW8B~aKhT3n4RHZ~4WCoMs9o6R~HZk-7ZdqP6~ETJyKjUU1f~D0nMcn6oGk~-StjcwdYwv~Bd2L9ZBE8q; p_b_type=2; login_ever=yes; PHPSESSID=65501341_4FktF3SbZKOzkljsP6ysZ4dEZtkVE3Cr; user_language=zh]",
+	"Download-Path": "./"
 }
