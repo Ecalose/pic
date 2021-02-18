@@ -38,7 +38,7 @@ Maxpage = [10, 2, 10, 2, 1, 5, 6, 10, 6, 10, 6]
 NowDate = time.strftime('%Y.%m.%d')
 Logtime = time.strftime('%Y-%m-%d %H %M %S', time.localtime(time.time()))
 
-with open('cofing.json', 'r') as f:
+with open('./src/cofing.json', 'r') as f:
     cofing = json.load(f)
     print('读取配置完成')
 
