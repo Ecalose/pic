@@ -34,7 +34,7 @@ Api = [
     'https://www.pixiv.net/ranking.php?mode=female&format=json&p=',
     'https://www.pixiv.net/ranking.php?mode=female_r18&format=json&p='
 ]
-Maxpage = [5,5,1,1,5,1,5,5,5,5,5]
+Maxpage = [5,5,1,1,5,1,5,1,1,1,1]
 NowDate = time.strftime('%Y.%m.%d')
 Logtime = time.strftime('%Y-%m-%d %H %M %S', time.localtime(time.time()))
 
